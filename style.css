@@ -15,12 +15,14 @@ h1  {
     font-style: italic;
 }
 
-#gameButton {
+button {
     background-color: #daa520;
     color: #016f32;
     width: 150px;
     font-weight: bold;
+    text-transform: uppercase;
     padding: 5px 0px;
     border: none;
     border-radius: 2px;
+    margin: 2px 0px;
 }
